@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="806" height="59.762" viewBox="0 0 806 59.762">
+  <g id="classic" transform="translate(-556 -390.738)">
+    <path id="Path_11263" data-name="Path 11263" d="M-42,0H755" transform="translate(603.5 417)" fill="none" stroke="#c5c5c5" stroke-linecap="round" stroke-width="1" stroke-dasharray="4"/>
+    <g id="Group_7907" data-name="Group 7907" transform="translate(821 417)">
+      <line id="Line_99" data-name="Line 99" y1="26" transform="translate(5)" fill="none" stroke="#573e92" stroke-linecap="round" stroke-width="1" stroke-dasharray="4"/>
+      <path id="Path_11265" data-name="Path 11265" d="M5,0l5,6H0Z" transform="translate(10 33.5) rotate(180)" fill="#573e92"/>
+    </g>
+    <g id="Group_7908" data-name="Group 7908" transform="translate(1087 417)">
+      <line id="Line_99-2" data-name="Line 99" y1="26" transform="translate(5)" fill="none" stroke="#c5c5c5" stroke-linecap="round" stroke-width="1" stroke-dasharray="4"/>
+      <path id="Path_11265-2" data-name="Path 11265" d="M5,0l5,6H0Z" transform="translate(10 33.5) rotate(180)" fill="#c5c5c5"/>
+    </g>
+    <g id="Group_7900" data-name="Group 7900" transform="translate(556 417)">
+      <line id="Line_99-3" data-name="Line 99" y1="26" transform="translate(5)" fill="none" stroke="#c5c5c5" stroke-linecap="round" stroke-width="1" stroke-dasharray="4"/>
+      <path id="Path_11265-3" data-name="Path 11265" d="M5,0l5,6H0Z" transform="translate(10 33.5) rotate(180)" fill="#c5c5c5"/>
+    </g>
+    <path id="Line_99-4" data-name="Line 99" d="M0,25.762V0" transform="translate(895.5 391.238)" fill="none" stroke="#573e92" stroke-linecap="round" stroke-width="1" stroke-dasharray="4"/>
+    <path id="Path_10315" data-name="Path 10315" d="M444,0H375" transform="translate(449.75 417)" fill="none" stroke="#573e92" stroke-linecap="round" stroke-width="1" stroke-dasharray="4"/>
+    <g id="Group_7993" data-name="Group 7993" transform="translate(1352 417)">
+      <line id="Line_99-5" data-name="Line 99" y1="26" transform="translate(5)" fill="none" stroke="#c5c5c5" stroke-linecap="round" stroke-width="1" stroke-dasharray="4"/>
+      <path id="Path_11265-4" data-name="Path 11265" d="M5,0l5,6H0Z" transform="translate(10 33.5) rotate(180)" fill="#c5c5c5"/>
+    </g>
+  </g>
+</svg>

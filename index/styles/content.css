@@ -1,0 +1,49 @@
+.content {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.content__wrapper {
+    display: flex;
+    justify-content: center;
+
+}
+
+.content__main {
+    max-width: 876px;
+}
+
+.content__main_box {
+    padding: 0 2.4rem;
+    border: 1px solid var(--border-color);
+    background-color: var(--second-light-background);
+    transition: .7s;
+
+}
+
+.content__main_box--wrapper {
+    padding: 2.4rem 0;
+}
+
+.content__main_box--wrapper.primary-bg-color {
+    background-image: url("../assets/section-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 5rem 2.4rem;
+
+}
+
+
+.content__main_box--wrapper ~ .content__main_box--wrapper {
+    margin-top: 3rem;
+}
+
+
+@media screen and (max-width: 992px) {
+    .content__main_box {
+        padding: 0;
+    }
+}
+

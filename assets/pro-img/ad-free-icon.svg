@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.027" height="30.028" viewBox="0 0 30.027 30.028">
+  <g id="Ads_free_button_icon" data-name="Ads free button icon" transform="translate(-990.447 -455.742)">
+    <g id="Group_7684" data-name="Group 7684" transform="translate(995.596 462.088)">
+      <path id="Path_10047" data-name="Path 10047" d="M31.084,33.521H15.711A2.242,2.242,0,0,1,13.47,31.28V18.912a2.242,2.242,0,0,1,2.241-2.241H31.084a2.242,2.242,0,0,1,2.241,2.241V31.28a2.242,2.242,0,0,1-2.241,2.241" transform="translate(-13.47 -16.671)" fill="#ececec"/>
+      <path id="Path_10048" data-name="Path 10048" d="M33.325,19.815H13.47v-.9a2.242,2.242,0,0,1,2.241-2.241H31.084a2.242,2.242,0,0,1,2.241,2.241Z" transform="translate(-13.47 -16.672)" fill="#b1b1b1"/>
+      <text id="AD" transform="translate(9.084 8.008)" font-size="5" font-family="Stem-Bold, Stem ☞" font-weight="700"><tspan x="0" y="0">AD</tspan></text>
+      <g id="Group_7681" data-name="Group 7681" transform="translate(13.165 1.234)">
+        <path id="Path_10049" data-name="Path 10049" d="M50.651,19.867a.567.567,0,1,1-.567-.567.567.567,0,0,1,.567.567" transform="translate(-45.761 -19.3)" fill="#fff"/>
+        <path id="Path_10050" data-name="Path 10050" d="M46.651,19.867a.567.567,0,1,1-.567-.567.567.567,0,0,1,.567.567" transform="translate(-43.638 -19.3)" fill="#fff"/>
+        <path id="Path_10051" data-name="Path 10051" d="M42.651,19.867a.567.567,0,1,1-.567-.567.567.567,0,0,1,.567.567" transform="translate(-41.516 -19.3)" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_1548" data-name="Rectangle 1548" width="4.334" height="3.792" transform="translate(3.126 5.175)" fill="#787878" opacity="0.53"/>
+      <rect id="Rectangle_1549" data-name="Rectangle 1549" width="14.084" height="3.25" transform="translate(3.126 11.134)" fill="#787878" opacity="0.53"/>
+    </g>
+    <g id="Group_7685" data-name="Group 7685" transform="translate(991.447 456.742)">
+      <path id="Path_10069" data-name="Path 10069" d="M33.06,18.915A14.014,14.014,0,1,1,19.046,4.9,14.014,14.014,0,0,1,33.06,18.915Z" transform="translate(-5.032 -4.9)" fill="none" stroke="#ea5e5e" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_502" data-name="Line 502" x1="19.436" y2="19.437" transform="translate(4.835 4.501)" fill="none" stroke="#ea5e5e" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

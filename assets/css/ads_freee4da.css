@@ -1,0 +1,260 @@
+.inner-mode-nav.noDashboard {
+    display: block;
+}
+.adsfree_container {
+    width: 1024px;
+    margin: 40px auto 0 auto;
+}
+.pageHeading {
+    text-align: center;
+}
+.pageHeading h2 {
+    font-weight: bold;
+}
+.af_features ul {
+    padding: 30px;
+    margin: 0;
+    list-style: none;
+    background: #f8fafc;
+    border: 1px solid #e3e7ed;
+}
+.af_features ul li {
+    background: url(../pro-img/price_check_icon.svg) no-repeat;
+    background-position: 0px 3px;
+    padding-left: 27px;
+    margin-bottom: 14px;
+    background-size: 15px;
+}
+.af_features ul li:last-child {
+    margin-bottom: 0px;
+}
+.mt50 {
+    margin-top: 50px;
+}
+label.radio_button {
+    border: 1px solid #e3e7ed;
+    border-radius: 0px;
+    font-weight: bold;
+    width: 100%;
+    font-size: 17px;
+    text-align: left;
+    border-right: 6px solid #1e70b9;
+    box-shadow: 0px 0 14px 7px #f1f1f1a8;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+label.radio_button img {
+    width: 100px;
+    margin-right: 30px;
+}
+label.inerLabel {
+    display: grid;
+    grid-template-columns: 58% 42%;
+    cursor: pointer;
+    align-items: center;
+}
+.faqs_section {
+    padding: 30px 0 80px 0;
+}
+span.headSpan strong {
+    display: block;
+    font-weight: 700;
+}
+span.headSpan {
+    font-size: 14px;
+    font-weight: normal;
+}
+span.priceSpan {
+    text-align: right;
+    font-weight: normal;
+}
+span.priceSpan strong {
+    font-size: 33px;
+    font-weight: 700;
+    line-height: normal;
+}
+.card {
+    border: none;
+}
+.card-header {
+    background: none;
+    border-top: 1px solid rgba(0, 0, 0, 0.125);
+    border-bottom: 0;
+    border-radius: 0 !important;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 0px;
+}
+a.card-link {
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+}
+.movicon img {
+    width: 18px;
+    margin-top: 5px;
+}
+.movicon {
+    float: right;
+}
+a.card-link .plusIcon {
+    display: none;
+}
+a.card-link .minusIcon {
+    display: block;
+}
+img.minusIcon {
+    margin-top: 10px;
+}
+div#accordion {
+    margin-top: 30px;
+}
+.faqs_section h2 {
+    text-align: center;
+    font-weight: bold;
+    margin: 40px 0;
+}
+a.collapsed.card-link .plusIcon {
+    display: block;
+}
+a.collapsed.card-link .minusIcon {
+    display: none;
+}
+.card-body {
+    padding-left: 0;
+}
+span.headSpan img {
+    width: 38px;
+    margin-right: 10px;
+}
+button#processBtn {
+    background: #1e70b9;
+    color: #fff;
+    border: 1px solid #1e70b9;
+    cursor: pointer;
+    padding: 10px 20px;
+    width: 300px;
+}
+button#processBtn:focus {
+    outline: none;
+}
+.processBtnSec {
+    text-align: center;
+    padding: 40px 0 0 0;
+}
+.res_loader_con {
+    background: #80808091;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+body.clang_de .af_features ul {
+    font-size: 13px;
+    padding: 33px 20px;
+}
+body.clang_de span.headSpan {
+    font-size: 13px;
+}
+body.clang_id span.headSpan,
+body.clang_it span.headSpan {
+    font-size: 13px;
+}
+body.clang_it label.inerLabel {
+    grid-template-columns: 63% 37%;
+}
+body.clang_it span.priceSpan strong {
+    font-size: 30px;
+}
+body.clang_it label.radio_button {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+body.clang_ru .accountDD a.loginUrl {
+    width: auto;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.payOption {
+    width: 480px;
+    margin: 0 auto;
+    padding: 25px 0 0 0;
+}
+.pmentHead {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+button#PayPalBtn {
+    width: 100%;
+    background: #FFC439;
+    text-align: center;
+    padding: 9px 20px;
+    border-radius: 0;
+}
+button#PayPalBtn img {
+    height: 20px;
+}
+button#StripBtn {
+    width: 100%;
+    background: #6772E5;
+    text-align: center;
+    padding: 9px 20px;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 0;
+}
+button#PayPalBtn:focus, button#StripBtn:focus{
+    outline: none;
+    box-shadow: none;
+}
+
+
+@media screen and (max-width: 767px) {
+    .adsfree_container {
+        width: auto;
+    }
+    .adsfree_container p.text-center br {
+        display: none;
+    }
+    body .af_radio label.radio_button {
+        width: 100%;
+        background-position: 15px center !important;
+        padding-left: 55px !important;
+        text-align: left;
+        padding-top: 10px;
+        box-shadow: none;
+        min-height: auto;
+        padding-right: 10px !important;
+        border-right: 6px solid #000;
+    }
+    .af_radio .radio_button:first-child {
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    body .mt50 {
+        margin-top: 20px;
+    }
+    span.headSpan {
+        font-size: 13px;
+    }
+    label.inerLabel {
+        grid-template-columns: 62% 38%;
+    }
+    .af_features ul {
+        padding: 10px;
+    }
+    .payOption {
+        width: auto;
+        padding: 25px 10px 0 10px;
+    }
+}
+@keyframes shadow-pulse{ 
+    0%{box-shadow:0 0 0 0px rgba(30, 112, 185);}
+    100%{box-shadow:0 0 0 15px rgba(0, 0, 0, 0);}
+}
+.button_blink{animation: shadow-pulse 1s infinite;}
